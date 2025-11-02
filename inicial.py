@@ -1,3 +1,4 @@
 
 
-input = float("digite um número")
+number = int(input("Digite um número: "))
+print(number)
